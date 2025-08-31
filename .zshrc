@@ -11,7 +11,7 @@ WELCOME_MSGS=(
 	"howdy, $USER"
 	"welcome back to zsh, $USER.\nwhat are we gonna do today?"
 	"sup"
-	"ULTIMATE H4XX0R SHELL V0.1\nKNOCK KNOCK, NEO.\NTHE MATRIX HAS YOU."
+	"ULTIMATE H4XX0R SHELL V0.1\nKNOCK KNOCK, NEO.\nTHE MATRIX HAS YOU."
 	"TECHNOBLADE NEVER DIES"
 	"'zsh is better than bash' - Guest4242.xml"
 	"i use arch btw"
